@@ -21,5 +21,21 @@ namespace Tiendapues
         {
             this.Close();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 registro = new Form2();
+            registro.Show();
+            this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+            Form3 registro3 = new Form3();
+            registro3.Show();
+            this.Hide();
+
+        }
     }
 }

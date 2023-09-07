@@ -9,3 +9,5 @@ C:\Users\Alumno\Desktop\Tiendapues\obj\Debug\Tiendapues.csproj.GenerateResource.
 C:\Users\Alumno\Desktop\Tiendapues\obj\Debug\Tiendapues.csproj.CoreCompileInputs.cache
 C:\Users\Alumno\Desktop\Tiendapues\obj\Debug\Tiendapues.exe
 C:\Users\Alumno\Desktop\Tiendapues\obj\Debug\Tiendapues.pdb
+C:\Users\Alumno\Desktop\Tiendapues\obj\Debug\Tiendapues.Form2.resources
+C:\Users\Alumno\Desktop\Tiendapues\obj\Debug\Tiendapues.Form3.resources
