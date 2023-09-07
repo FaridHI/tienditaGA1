@@ -1,0 +1,1 @@
+Data Source=DESKTOP-7LDGQBD;Initial Catalog=Inicio;Integrated Security=True
