@@ -43,9 +43,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Tiendapues.Properties.Resources.f6dbeb17951cb9d12c450eb26e42e484;
-            this.pictureBox1.Location = new System.Drawing.Point(-10, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(-25, -11);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(244, 199);
+            this.pictureBox1.Size = new System.Drawing.Size(285, 231);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -113,6 +113,7 @@
             this.button3.TabIndex = 7;
             this.button3.Text = "&Salir";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // Form1
             // 

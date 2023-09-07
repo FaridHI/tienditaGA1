@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Tiendapues\bin\Debug\Tiendapues.exe.config
+C:\Users\Alumno\Desktop\Tiendapues\bin\Debug\Tiendapues.exe
+C:\Users\Alumno\Desktop\Tiendapues\bin\Debug\Tiendapues.pdb
+C:\Users\Alumno\Desktop\Tiendapues\obj\Debug\Tiendapues.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Tiendapues\obj\Debug\Tiendapues.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\Tiendapues\obj\Debug\Tiendapues.Form1.resources
+C:\Users\Alumno\Desktop\Tiendapues\obj\Debug\Tiendapues.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Tiendapues\obj\Debug\Tiendapues.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Tiendapues\obj\Debug\Tiendapues.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Tiendapues\obj\Debug\Tiendapues.exe
+C:\Users\Alumno\Desktop\Tiendapues\obj\Debug\Tiendapues.pdb
