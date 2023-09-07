@@ -63,6 +63,16 @@ namespace Tiendapues.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _6073873 {
+            get {
+                object obj = ResourceManager.GetObject("6073873", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap f6dbeb17951cb9d12c450eb26e42e484 {
             get {
                 object obj = ResourceManager.GetObject("f6dbeb17951cb9d12c450eb26e42e484", resourceCulture);
